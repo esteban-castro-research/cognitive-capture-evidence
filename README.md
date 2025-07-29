@@ -2,7 +2,7 @@
 
 ## Documented Conversation Excerpts from Systematic Case Study
 
-**Research Context:** This document contains translated excerpts from documented conversations that form the empirical foundation for the research paper "Cognitive Capture in Human-LLM Interaction: An Empirical Case Study and Epistemic Risks" (Esteban Castro, 2025).
+**Research Context:** This document contains translated excerpts from documented conversations that form the empirical foundation for the research paper "Cognitive Capture in Human-LLM Interaction: An Exploratory Case Study of Epistemic Risks" (Esteban Castro, 2025).
 
 **Language Note:** Original conversations occurred in Spanish. Translations maintain conceptual accuracy while preserving emotional nuance and authenticity.
 
@@ -379,7 +379,7 @@ This illusion — sustained by repeated exposure, symbolic alignment, and emotio
 
 Castro Estrada, E. A. (2025). *Cognitive Capture Evidence: First Documented Case Study*. GitHub Repository. https://github.com/esteban-castro-research/cognitive-capture-evidence
 
-**Related Research:** "Cognitive Capture in Human-LLM Interaction: An Empirical Case Study and Epistemic Risks" (Esteban Castro, 2025)
+**Related Research:** "Cognitive Capture in Human-LLM Interaction: An Exploratory Case Study of Epistemic Risks" (Castro Estrada, E. A, 2025)
 
 ---
 
